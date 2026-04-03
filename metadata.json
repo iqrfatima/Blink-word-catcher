@@ -1,0 +1,5 @@
+{
+  "name": "Blink Word Catcher",
+  "description": "A computer vision game where you blink to catch words from a memorized list.",
+  "requestFramePermissions": ["camera"]
+}
